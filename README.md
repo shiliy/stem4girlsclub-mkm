@@ -17,13 +17,13 @@ A browswer is needed to view the webpage you've created.  Options include the fo
 ## How to get started on this Activity
 1. Make a copy of this repository on your local machine by downloading the zip file.  Click on the "Clone or download" button and select 'Download ZIP' button.
 1. Unpackage the zip by right clicking on the downloaded file.
-  1. Windows: select 'Extract All...'.  Make note of the directory that you unzip the files to.
-  1. MAC: select 'Open With -> Archive Utility'.  Make note of the directory that you unzip the files to.
+    1. Windows: select 'Extract All...'.  Make note of the directory that you unzip the files to.
+    1. MAC: select 'Open With -> Archive Utility'.  Make note of the directory that you unzip the files to.
 1. Take a look at the DEVELOPMENT.md for more information.
 
 ## Reference Links
-* [w3schools](https://www.w3schools.com/default.asp) has a good list of tutorials and examples for more learning.
-** [HTML 5](https://www.w3schools.com/html/html5_intro.asp)
-** [JavaScript](https://www.w3schools.com/js/)
-* [CodePen](https://codepen.io/)
-* [Ladies Learning Code](http://ladieslearningcode.com/)
+- [w3schools](https://www.w3schools.com/default.asp) has a good list of tutorials and examples for more learning.
+    - [HTML 5](https://www.w3schools.com/html/html5_intro.asp)
+    - [JavaScript](https://www.w3schools.com/js/)
+- [CodePen](https://codepen.io/)
+- [Ladies Learning Code](http://ladieslearningcode.com/)
