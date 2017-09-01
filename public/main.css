@@ -24,8 +24,15 @@ main {
 	padding: 10px;
 	width: 60%;
 }
+
 #box {
-	padding: 10px;
-	border: 2px solid #ffff33;
+	padding: 5px;
+	border: 5px solid #ffff33;
+	color: #ffffff;
+}
+
+#Agenda {
+	padding: 5px;
+	border: 2px solid #d2bef7;
 	color: #ffffff;
 }
