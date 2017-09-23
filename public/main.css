@@ -36,3 +36,25 @@ main {
 	border: 2px solid #d2bef7;
 	color: #ffffff;
 }
+
+#navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: purple ;
+}
+
+.navli {
+	display: inline;
+}
+
+li a {
+	color : white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover{
+	background-colr: #111;
+}

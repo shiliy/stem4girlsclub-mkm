@@ -1,0 +1,38 @@
+
+body {
+	background-color: #9855D4;
+	color: black;
+}
+
+main {
+	padding: 10px;
+	width: 60%;
+}
+
+#box {
+	padding: 5px;
+	border: 5px solid #ffff33;
+	color: #ffffff;
+}
+
+#Minutes {
+	padding: 10px;
+	border: 2px solid #d2bef7;
+	color: #ffffff;
+}
+
+ul {
+	margin: 5px;
+	padding: 10px;
+}
+
+li a {
+	color : white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover{
+	background-colr: #111;
+}
