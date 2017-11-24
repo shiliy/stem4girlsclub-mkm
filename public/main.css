@@ -58,3 +58,8 @@ li a {
 li a:hover{
 	background-colr: #111;
 }
+
+table, th, td {
+    border: 1px solid black;
+}
+
